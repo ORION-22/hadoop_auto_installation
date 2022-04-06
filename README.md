@@ -15,7 +15,7 @@ Hadoop 3.2.2:: https://drive.google.com/drive/folders/1Ez02Rp1JGKp0suoOQlDBFbddp
 
 
     
-4 - Now you must have only two files in the directoy i.e. kfshadoop.sh and apache hadoop tar.gz file.
+4 - Now you must have only two files in the directoy i.e. hadoop_auto.sh and apache hadoop tar.gz file.
 
 5 - Issue the following command to make the shell script executeable.
     
