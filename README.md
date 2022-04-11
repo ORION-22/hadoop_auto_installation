@@ -9,7 +9,7 @@ Please follow the following steps.
 
 Hadoop 3.2.2:: https://drive.google.com/drive/folders/1Ez02Rp1JGKp0suoOQlDBFbddpzJ6zJ_1?usp=sharing
 
-2 - In the folder where hadoop tar.gz file is availabale, open the TERMINAL.
+2 - In the folder where hadoop tar.gz file is available, open the TERMINAL.
 
 3 - Issue the following command to download this project's shells script
 
