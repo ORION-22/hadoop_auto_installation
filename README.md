@@ -13,11 +13,12 @@ Hadoop 3.2.2:: https://drive.google.com/drive/folders/1Ez02Rp1JGKp0suoOQlDBFbddp
 
 3 - Issue the following command to download this project's shells script
 
+    wget https://github.com/ORION-22/hadoop_auto_installation.git
 
-    
-4 - Now you must have only two files in the directoy i.e. hadoop_auto.sh and apache hadoop tar.gz file.
 
-5 - Issue the following command to make the shell script executeable.
+4 - Now you must have only two files in the directory  i.e. hadoop_auto.sh and apache hadoop tar.gz file.
+
+5 - Issue the following command to make the shell script executable.
     
     chmod 777 hadoop-<.tar.gz file name >
     chmod 777 hadoop_auto.sh
