@@ -5,7 +5,7 @@ Hadoop 3.2.2 on Ubuntu20.04
 
 Please follow the following steps.
 
-1 - Download hadoop installer from https://hadoop.apache.org/   (Downlaod-> check version -> binary downlaod link)
+1 - Download hadoop installer from https://hadoop.apache.org/   (Download-> check version -> binary download link)
 
 Hadoop 3.2.2:: https://drive.google.com/drive/folders/1Ez02Rp1JGKp0suoOQlDBFbddpzJ6zJ_1?usp=sharing
 
